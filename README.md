@@ -1,2 +1,3 @@
-# Contact_mern_App
-Contact_mern_App is a mini app using mern technology
+# REST_Api
+
+REST_Api  a mini app using NodeJS, MONGOdb, postman
